@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
-                    String url = "http://159.89.91.223:8080/img.png";
+                    String url = "http://:8080/img.png";
 //                    Bitmap bmp = null;
 //                    InputStream in = new java.net.URL(url).openStream();
 //                    bmp = BitmapFactory.decodeStream(in);
